@@ -1,0 +1,5 @@
+---
+name: "PMFMatcher"
+packageName: "similarity.instance"
+params:
+  distance: ["L2"]
